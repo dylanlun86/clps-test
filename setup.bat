@@ -47,11 +47,11 @@ echo.
 echo Setup completed successfully!
 echo.
 echo To use the banking system:
-echo   1. Activate the virtual environment: .venv\Scripts\activate.bat
+echo   1. Activate the virtual environment: .venv\Scripts\activate
 echo   2. Run the CLI: python main.py
 echo.
 echo Data files:
-echo   • bank_accounts.csv - Default bank data
+echo   - bank_accounts.csv - Default bank data
 echo.
 
 pause 

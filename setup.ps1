@@ -52,11 +52,11 @@ Write-Host ""
 Write-Host "Setup completed successfully!" -ForegroundColor Green
 Write-Host ""
 Write-Host "To use the banking system:"
-Write-Host "  1. Activate the virtual environment: .venv\Scripts\Activate.ps1"
+Write-Host "  1. Activate the virtual environment: .venv\Scripts\Activate"
 Write-Host "  2. Run the CLI: python main.py"
 Write-Host ""
 Write-Host "Data files:"
-Write-Host "  • bank_accounts.csv - Default bank data"
+Write-Host "  - bank_accounts.csv - Default bank data"
 Write-Host ""
 
 Read-Host "Press Enter to continue" 
