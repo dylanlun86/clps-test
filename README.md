@@ -53,7 +53,7 @@ uv venv
 # Activate virtual environment
 source .venv/bin/activate  # Linux/macOS
 # or
-.venv\Scripts\activate.bat  # Windows
+.venv\Scripts\activate  # Windows
 
 # Install dependencies
 uv pip install -e .
