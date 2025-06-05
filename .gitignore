@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual Environment
+venv/
+env/
+.venv
+.env
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+.DS_Store?
+Thumbs.db
+
+# Banking System Data Files
+*.csv
+bank_accounts.csv
+test_bank*.csv
+temp_*.csv
+
+# Environment Variables
+.env.local
+.env.production
+
+# Logs
+*.log 
