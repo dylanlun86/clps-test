@@ -71,7 +71,7 @@ python main.py
 # Activate virtual environment (if not already active)
 source .venv/bin/activate  # Linux/macOS
 # or
-.venv\Scripts\activate.bat  # Windows
+.venv\Scripts\activate  # Windows
 
 # Start the banking system
 python main.py
